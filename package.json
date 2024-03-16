@@ -4,7 +4,7 @@
   "homepage": "https://Hasyed89.github.io/testbook",
   "version": "0.1.0",
   "description": "",
-  "source": "dist/index.html",
+  "source": "index.html",
   "private": true,
   "dependencies": {
     "bulma": "^0.9.4",
