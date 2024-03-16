@@ -1,5 +1,7 @@
 {
+
   "name": "booktrip",
+  "homepage": "https://Hasyed89.github.io/testbook",
   "version": "0.1.0",
   "description": "",
   "source": "src/index.html",
